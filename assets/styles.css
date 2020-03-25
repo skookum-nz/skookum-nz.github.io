@@ -1,9 +1,11 @@
 h1 {
+  margin-top: 20%;
   font-family: 'Lobster', cursive;
   text-align: center;
 }
 
-footer {
+.footer {
+  margin-top: 50px; 
   font-style: italic;
   text-align: center;
 }
